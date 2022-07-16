@@ -1,0 +1,145 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ABM Alumnos [Algoritmos De Lenguaje 2]
+</name>
+</assembly>
+<members>
+<member name="T:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.FormularioAgregar_Load(System.Object,System.EventArgs)">
+ <summary>
+ El Procedimiento Form1_Load es llamado antes de que el formulario se muestre por primera vez.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.tbString_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [Nombre, Apellido, Direccion]
+ [<c>Control De Validacion de Datos [Evita que se agreguen numeros]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.tbInteger_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [DNI, Telefono]
+ [<c>Control De Validacion de Datos [Evita que se agreguen letras]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.tbEmail_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [DNI, Telefono]
+ [<c>Control De Validacion de Datos [Evita que se agreguen Simbolos demas]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.cbLocalidad_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [DNI, Telefono]
+ [<c>Control De Validacion de Datos [Evita que se agreguen cualquier simbolo, numero, letra o espacio]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.tbString_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [Nombre, Apellido, Direccion]
+ [<c>Control De Validacion de Datos [Evita que se agreguen numeros]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.tbInteger_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [DNI, Telefono]
+ [<c>Control De Validacion de Datos [Evita que se agreguen letras]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.tbEmail_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [DNI, Telefono]
+ [<c>Control De Validacion de Datos [Evita que se agreguen Simbolos demas]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.cbLocalidad_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Evento Para Las Caja De Texto o TextBox [DNI, Telefono]
+ [<c>Control De Validacion de Datos [Evita que se agreguen cualquier simbolo, numero, letra o espacio]</c>]
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.FormularioModificar_Load(System.Object,System.EventArgs)">
+ <summary>
+ El Procedimiento Form1_Load es llamado antes de que el formulario se muestre por primera vez.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="F:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioPrincipal.SelectFrom">
+ <summary>
+ Atributo tipo String Constante de Nombre SelectFrom que se le asigna un cadena caracteres.
+ Script SQL:
+     Obtiene la tabla completa de la base de datos.
+ </summary>
+ <remarks>
+ <example> ScripSQL Acortado:
+ <code>SELECT * FROM Alumnos</code>
+ </example>
+ </remarks>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioPrincipal.FormularioPrincipal_Load(System.Object,System.EventArgs)">
+ <summary>
+ El Procedimiento Form1_Load es llamado antes de que el formulario se muestre por primera vez.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.MySQL.EjecutarTransaccionComparacion(System.String,System.String)">
+ <summary>
+ Busca solamente una columna con su filas [En este caso queremos que busque solamente la columna DNI con sus filas]
+ </summary>
+ <param name="SQL"></param>
+ <param name="Identificador"></param>
+ <returns></returns>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.MySQL.EjecutarTransaccionBusqueda(System.String)">
+ <summary>
+ Solo se utiliza cuando se realiza una busqueda que tengan varias fila y columnas
+ </summary>
+ <param name="SQL">Script SQL</param>
+ <returns>Tabla De Datos [DataTable]</returns>
+</member>
+<member name="M:ABM_Alumnos__Algoritmos_De_Lenguaje_2_.MySQL.EjecutarTransaccion(System.String)">
+ <summary>
+ Solo se utiliza cuando se Inserta, Actualiza y/o Eliminan Los Datos. [Insert And/Or Update And/Or Delete]
+ </summary>
+ <param name="SQL">Script SQL</param>
+ <returns>Verdadero o Falso [False/True]</returns>
+</member>
+</members>
+</doc>
