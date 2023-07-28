@@ -1,0 +1,54 @@
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe.config
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].pdb
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].xml
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbprojAssemblyReference.cache
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.Resources.resources
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.GenerateResource.cache
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.CoreCompileInputs.cache
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].xml
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].pdb
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\MySql.Data.dll
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.CopyComplete
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.resources
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioPrincipal.resources
+C:\Users\joese\Desktop\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.resources
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe.config
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].pdb
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].xml
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\MySql.Data.dll
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.AssemblyReference.cache
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.resources
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.resources
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioPrincipal.resources
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.Resources.resources
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.GenerateResource.cache
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.CoreCompileInputs.cache
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.CopyComplete
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].xml
+C:\Users\joese\Desktop\Proyecto de Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].pdb
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe.config
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].pdb
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].xml
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\MySql.Data.dll
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.AssemblyReference.cache
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.SuggestedBindingRedirects.cache
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioAgregar.resources
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioModificar.resources
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.FormularioPrincipal.resources
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM_Alumnos__Algoritmos_De_Lenguaje_2_.Resources.resources
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.GenerateResource.cache
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.CoreCompileInputs.cache
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].vbproj.CopyComplete
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].exe
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].xml
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\obj\Debug\ABM Alumnos [Algoritmos De Lenguaje 2].pdb
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\System.Memory.dll
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\System.Buffers.dll
+C:\Users\joese\Desktop\ABMAlumnos-Ejemplo\ABM Alumnos [Algoritmos De Lenguaje 2]\bin\Debug\MySql.Data.xml
